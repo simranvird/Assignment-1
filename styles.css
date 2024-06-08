@@ -1,0 +1,19 @@
+header{
+    font-weight: bold;
+    font-size: 50px;
+    color: black;
+    text-align:center;
+
+}
+
+img{
+    display:block;
+    margin: auto;
+}
+
+body{
+     background-color: rgb(246, 244, 241);
+}
+
+
+
